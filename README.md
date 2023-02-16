@@ -1,4 +1,7 @@
 # Brew Ninja .NET Developer / Engineer - Take Home Test
+## Comments reagrding completed code: 
+
+Not all test cases / hand options are created (due to time constraints). Only provided sample test cases will pass. If more time allocated then code can be completed 100% / optimized further.
 
 ## Instructions
 
